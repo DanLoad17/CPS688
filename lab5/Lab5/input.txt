@@ -1,0 +1,5 @@
+Enter the text: Hello World
+Enter the pattern: World
+
+ATAACGGCTAATA
+ATA
